@@ -1,3 +1,19 @@
+
+![image](https://user-images.githubusercontent.com/100312812/219468802-c8076c0b-9618-4a1e-b62d-c9ca4a30529b.png)
+
+# Projeto 'Secret Word' App:
+
+- Trata-se de temas específicos que contém algumas palavras para serem adivinhadas. Essas palavras são escolhidas através de uma funcionalidade, que gera um valor "random". O usuário deverá inserir letra por letra em um determinado campo da aplicação, e se a mesma estiver contida na palavra, será renderizada na tela e acrescentada na pontuação do mesmo. Caso contrário será descontada nas tentativas dísponiveis. E por fim, será mostrado na tela a pontuação total que foi conquistada durante o jogo.
+
+## Tech's & Lib's:
+- Visual Studio Code (Editor Código Fonte)
+- HTML
+- CSS
+- JavaScript
+- React
+
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
